@@ -1,0 +1,11 @@
+.control .btn {
+    font-size:20px;
+    background:#2a2a2a;
+    width:200px;
+    color:#fff;
+  
+}
+
+.btn:focus {
+    box-shadow: none;
+}
